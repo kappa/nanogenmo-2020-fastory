@@ -1,0 +1,9 @@
+requires 'uni::perl';
+requires 'DateTime';
+requires 'Heap::Simple::XS';
+requires 'Heap::Simple::Perl';
+requires 'Moose';
+requires 'MooseX::Enumeration';
+requires 'Moose::Util::TypeConstraints';
+requires 'Math::Random::NormalDistribution';
+requires 'Text::Wrap';
